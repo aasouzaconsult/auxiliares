@@ -11,5 +11,5 @@
 | `BDOR`        | [`PostgreeSQL`](https://www.postgresql.org), [`Oracle`](https://www.oracle.com/database/) |
 | `BD XML`      | [`BaseX`](https://basex.org), [`eXist-db`](https://exist-db.org/exist/apps/homepage/index.html), [`Apache XALAN`](https://xalan.apache.org/) |
 | `BD Móvel`    | [`SQL Anywhere Studio`](https://infocenter-archive.sybase.com/help/index.jsp?topic=/com.sybase.help.pocketbuilder_2.0.pkrelbt/html/pkrelbt/pkrelbt31.htm), [`SQLite`](https://www.sqlite.org/index.html), [`Couchbase Lite`](https://www.couchbase.com/products/lite/) | 
-| `BD Vetorial` | [`Elasticsearch`](https://www.elastic.co/pt/), [`PostGIS`](https://postgis.net/)|
+| `BD Vetorial` | [`Elasticsearch`](https://www.elastic.co/pt/), [`PostGIS`](https://postgis.net/), [`Milvus`](https://milvus.io/)|
 | `BD NoSQL`    | [`MongoDB`](https://www.mongodb.com/), [`Cassandra`](https://cassandra.apache.org/_/index.html), [`HBase`](https://hbase.apache.org/)|
