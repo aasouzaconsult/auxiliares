@@ -1,0 +1,6 @@
+Sigla;Nome
+TF; Telefone Fixo
+TM; Telefone Móvel
+EM; Email
+PG; Pager
+FX; Fax

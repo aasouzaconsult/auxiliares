@@ -1,0 +1,7 @@
+id_cliente,nome, sobrenome, email,telefone,endereco_completo,tipo_cliente,status,data_cadastro
+1,João, Silva,joao.silva@gmail.com,85.99999.1234,"Rua A, 100 - Fortaleza",PF,ATIVO,2022-01-15
+2,Maria, Souza,maria_souza@empresa.com,11.98888.4567,"Av. B, 200 - São Paulo",PJ,ATIVO,2023-03-20
+3,Carlos, Lima,carlos@@gmail.com,21.97777.8910,"Rua C, 300 - Rio de Janeiro",PF,INATIVO,2021-08-05
+4,Empresa, XYZ,contato@xyzcorp.com.br,31.96666.1122,"Rua D, 400 - Belo Horizonte",PJ,ATIVO,2022-11-10
+5,Ana, Beatriz,ana.beatriz@gmail,71.95555.3344,"Av. E, 500 - Salvador",PF,ATIVO,2023-06-01
+6,Comercial, ABC,vendas@abccomercial.com,41.94444.5566,"Rua F, 600 - Curitiba",PJ,ATIVO,2024-02-12

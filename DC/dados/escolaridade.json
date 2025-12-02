@@ -1,0 +1,50 @@
+[
+	{
+		"codigo": "01", 
+		"descricao": "Fundamental - Incompleto"
+	},
+	{
+		"codigo": "02",
+		"descricao": "Fundamental - Completo"
+	},
+	{
+		"codigo": "03", 
+		"descricao": "Médio - Incompleto"
+	},
+	{
+		"codigo": "04", 
+		"descricao": "Médio - Completo"
+	},
+	{
+		"codigo": "05", 
+		"descricao": "Superior - Incompleto"
+	},
+	{
+		"codigo": "06",
+		"descricao": "Superior - Completo"
+	},
+	{
+		"codigo": "07", 
+		"descricao": "Pós-graduação (Lato senso) - Incompleto"
+	},
+	{
+		"codigo": "08", 
+		"descricao": "Pós-graduação (Lato senso) - Completo"
+	},
+	{
+		"codigo": "09", 
+		"descricao": "Pós-graduação (Stricto sensu, nível mestrado) - Incompleto"
+	},
+	{
+		"codigo": "10", 
+		"descricao": "Pós-graduação (Stricto sensu, nível mestrado) - Completo"
+	},
+	{
+		"codigo": "11", 
+		"descricao": "Pós-graduação (Stricto sensu, nível doutor) - Incompleto"
+	},	
+	{
+		"codigo": "12", 
+		"descricao": "Pós-graduação (Stricto sensu, nível doutor) - Completo"
+	}
+]

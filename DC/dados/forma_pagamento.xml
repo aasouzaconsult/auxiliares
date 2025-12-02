@@ -1,0 +1,29 @@
+<forma_pagamento>
+	<formas>
+		<descricao>Dinheiro</descricao>
+	</formas>
+	<formas>
+		<descricao>Cartão de crédito</descricao>
+	</formas>
+	<formas>
+		<descricao>Cartão de débito</descricao>
+	</formas>
+	<formas>
+		<descricao>Pagamentos pelo celular</descricao>
+	</formas>
+	<formas>
+		<descricao>Vales</descricao>
+	</formas>
+	<formas>
+		<descricao>Cheque</descricao>
+	</formas>
+	<formas>
+		<descricao>PIX</descricao>
+	</formas>
+	<formas>
+		<descricao>Crediário</descricao>
+	</formas>
+	<formas>
+		<descricao>Boleto</descricao>
+	</formas>
+</forma_pagamento>
